@@ -1,0 +1,17 @@
+{
+  "name": "The Laser Eyes Warhol",
+  "description": "The Laser Eyes Warhol [Legendary] The NFT showcasing Warhol's classic face, embellished with futuristic laser eyes, epitomizes the intersection of traditional artistry and cutting-edge digital expression.",
+  "image": "https://bafybeibovsqbxaenxxt4hds4yvgsh3twmwmzagk5sxu7cstazb47pnnuoq.ipfs.nftstorage.link/Legendary-NFT-02.jpg",
+  "attributes": [{
+                 "trait_type": "Eyes",
+                 "value": "Laser Eyes"
+           },
+           {
+                 "trait_type": "Face",
+                 "value": "Flat Pale"
+           },
+           {
+                 "trait_type": "Hair",
+                 "value": "Yellow Slinky"
+           }
+      ]}

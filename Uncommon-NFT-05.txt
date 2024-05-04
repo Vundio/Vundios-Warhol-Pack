@@ -1,0 +1,17 @@
+{
+  "name": "The Warhol's Green Face",
+  "description": "The Warhol's Green Face [Uncommon] The Warhol face transformed with a captivating green hue stands as a vibrant testament to the boundless creativity and imagination flourishing within the NFT art world.",
+  "image": "https://bafybeigq3vhlzgjljzpsj5ccpqjy3xkbb7s2r3hsvrl2bjrewwk5eie2b4.ipfs.nftstorage.link/Uncommon-NFT-05.jpg",
+  "attributes": [{
+                 "trait_type": "Eyes",
+                 "value": "Black"
+           },
+           {
+                 "trait_type": "Face",
+                 "value": "Green"
+           },
+           {
+                 "trait_type": "Hair",
+                 "value": "Yellow Slinky"
+           }
+      ]}

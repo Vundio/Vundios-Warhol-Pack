@@ -1,0 +1,17 @@
+{
+  "name": "The Tribal Warhol with Blood Eyes",
+  "description": "The Tribal Warhol with Blood Eyes [Epic] The Tribal Warhol with Blood Eyes NFT encapsulates a striking fusion of cultural motifs, modern aesthetics, and provocative imagery, offering a captivating exploration of identity and symbolism in the digital age.",
+  "image": "https://bafybeienzcprjfbtaiciua7qqq22v74pgekbw324zilerqgyrsts7mr2jq.ipfs.nftstorage.link/Epic-NFT-03.jpg",
+  "attributes": [{
+                 "trait_type": "Eyes",
+                 "value": "Bloody Eyes"
+           },
+           {
+                 "trait_type": "Face",
+                 "value": "Bloody Mouth"
+           },
+           {
+                 "trait_type": "Hair",
+                 "value": "Black Tribal"
+           }
+      ]}

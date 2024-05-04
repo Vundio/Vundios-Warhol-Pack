@@ -1,0 +1,17 @@
+{
+  "name": "The Warhol's White Face",
+  "description": "The Warhol's White Face [Common] The NFT showcasing Warhol's renowned face in an ethereal white hue exudes a sense of purity and transcendence, offering a mesmerizing reinterpretation of the iconic pop art figure.",
+  "image": "https://bafybeiewwguj6aqtw3vtdafnwxqjdrxcgybfesnim6av6fsvghhwor5h6i.ipfs.nftstorage.link/Common-NFT-07.jpg",
+  "attributes": [{
+                 "trait_type": "Eyes",
+                 "value": "Black"
+           },
+           {
+                 "trait_type": "Face",
+                 "value": "White"
+           },
+           {
+                 "trait_type": "Hair",
+                 "value": "Red Slinky"
+           }
+      ]}

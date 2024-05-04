@@ -1,0 +1,17 @@
+{
+  "name": "The Warhol's Red Face",
+  "description": "The Warhol's Red Face [Plain] The NFT portraying Warhol's iconic face with a striking red hue evokes a powerful blend of passion, intensity, and timeless artistic expression, capturing the essence of contemporary digital artistry.",
+  "image": "https://bafybeick4yhtzuy26ka5wa6np65yyphhygi6e6otslpztta47335xghboa.ipfs.nftstorage.link/Plain-NFT-06.jpg",
+  "attributes": [{
+                 "trait_type": "Eyes",
+                 "value": "Normal"
+           },
+           {
+                 "trait_type": "Face",
+                 "value": "Red"
+           },
+           {
+                 "trait_type": "Hair",
+                 "value": "Blue Slinky"
+           }
+      ]}

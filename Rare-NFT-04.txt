@@ -1,0 +1,17 @@
+{
+  "name": "The Warhol's Lipstick",
+  "description": "The Warhol's Lipstick [Rare] The Warhol-inspired face adorned with vibrant lipstick hues has become an iconic symbol in the world of NFT art.",
+  "image": "https://bafybeiecd7b6bqask2orirzw6kscizqqjik7urknl52qqqnic6mxv2rifu.ipfs.nftstorage.link/Rare-NFT-04.jpg",
+  "attributes": [{
+                 "trait_type": "Eyes",
+                 "value": "Red Top Eyes"
+           },
+           {
+                 "trait_type": "Face",
+                 "value": "Red Lip"
+           },
+           {
+                 "trait_type": "Hair",
+                 "value": "Yellow Slinky"
+           }
+      ]}

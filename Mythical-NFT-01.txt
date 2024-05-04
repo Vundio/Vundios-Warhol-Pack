@@ -1,0 +1,17 @@
+{
+  "name": "The Four Eyes Warhol",
+  "description": "The Four Eyes Warhol [Mythical] The NFT featuring Warhol's distinct face, adorned with four mesmerizing eyes, captivates with its avant-garde fusion of pop art and digital innovation.",
+  "image": "https://bafybeiek4g5gou6nfgmx7unjgxfy74eabrsqj7sjk5apzi4bqff6ewc65m.ipfs.nftstorage.link/Mythical-NFT-01.jpg",
+  "attributes": [{
+                 "trait_type": "Eyes",
+                 "value": "Four Eyes"
+           },
+           {
+                 "trait_type": "Face",
+                 "value": "Brown Flat"
+           },
+           {
+                 "trait_type": "Hair",
+                 "value": "Purple Slinky"
+           }
+      ]}
